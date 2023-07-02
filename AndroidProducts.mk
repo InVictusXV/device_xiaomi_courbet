@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_courbet.mk
+    $(LOCAL_DIR)/derp_courbet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_courbet-user \
-    aosp_courbet-userdebug \
-    aosp_courbet-eng
+    derp_courbet-user \
+    derp_courbet-userdebug \
+    derp_courbet-eng
